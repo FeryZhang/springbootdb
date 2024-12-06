@@ -1,0 +1,5 @@
+com/example/springbootdb/repository/UserRepository.class
+com/example/springbootdb/service/UserService.class
+com/example/springbootdb/SpringbootdbApplication.class
+com/example/springbootdb/model/User.class
+com/example/springbootdb/controller/UserController.class
